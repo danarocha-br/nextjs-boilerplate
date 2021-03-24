@@ -1,6 +1,7 @@
 import tokens from '../tokens';
 
 export default {
+  id: 'dark',
   colors: {
     white: tokens.colors.white,
   },
