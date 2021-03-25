@@ -7,7 +7,6 @@ import { withDesign } from 'storybook-addon-designs';
 import GlobalStyles from 'styles/global';
 import { lightTheme, darkTheme } from 'styles/themes';
 import tokens from 'styles/tokens';
-import theme from './theme';
 
 
 export const parameters = {
@@ -48,9 +47,6 @@ addDecorator(
 
 addParameters({
   a11y: {},
-  options: {
-    theme,
-  },
 });
 
 export const decorators = [

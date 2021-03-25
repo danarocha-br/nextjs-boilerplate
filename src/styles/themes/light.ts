@@ -7,7 +7,7 @@ export default {
   },
 
   text: {
-    main: tokens.colors.gray[900],
+    main: tokens.colors.brand,
     secondary: tokens.colors.gray[100],
   },
 } as const;
