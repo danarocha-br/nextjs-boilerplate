@@ -1428,17 +1428,15 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@etchteam/storybook-addon-status@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@etchteam/storybook-addon-status/-/storybook-addon-status-2.1.0.tgz#d3cb3397b76ccabeebf289e03bc542024805b0f7"
-  integrity sha512-hUjSTEJKLu/Edu/SZDeW8/boIb3qOmr9gx5M5kX19r/lr+OEwMP4bdYfefg5YwRU+WU7qNNNxv1TO7IrfzXl7w==
+"@etchteam/storybook-addon-status@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@etchteam/storybook-addon-status/-/storybook-addon-status-3.0.2.tgz#d6d155a29657a73d1f884deb28dfccd67b7831d6"
+  integrity sha512-aPODH1Qp4ZJ4ar1UGNCxvknpLkaYucYF2Ic33+GCR+YvpNwqP6t3MO85YT1CBGX8R9P+yn8Ly1FFfBR29w0XBA==
   dependencies:
     "@storybook/addons" "5.3.19"
-    "@storybook/api" "5.3.19"
     "@storybook/client-logger" "5.3.19"
     "@storybook/components" "5.3.19"
     "@storybook/core-events" "5.3.19"
-    "@storybook/theming" "5.3.19"
     core-js "^3.0.1"
     memoizerific "^1.11.3"
     react "^16.8.3"
