@@ -33,7 +33,7 @@
     "@etchteam/storybook-addon-status": "^2.1.0",
     "@storybook/addon-a11y": "^6.1.21",
     "@storybook/addon-actions": "^6.1.21",
-    "@storybook/addon-essentials": "^6.1.21",
+    "@storybook/addon-essentials": "^6.3.5",
     "@storybook/addon-links": "^6.1.21",
     "@storybook/react": "^6.2.9",
     "@testing-library/jest-dom": "^5.13.0",
