@@ -9493,7 +9493,7 @@ lodash.uniq@4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-lodash@^4.0.1, lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20:
+lodash@^4.0.1, lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
@@ -12719,10 +12719,10 @@ storybook-addon-next-router@^2.0.4:
   resolved "https://registry.yarnpkg.com/storybook-addon-next-router/-/storybook-addon-next-router-2.0.4.tgz#205a79b90ddb7a04b3da0ba2b613cde66790b68e"
   integrity sha512-PAlAVA2joJC36r2uRU7pL5tNPqcOlcgJNuWyyiPAG6f/sptBK4EdOKUUdU0X9NBVV6BCkiwbLH/kkPmWYRxiFw==
 
-storybook-mobile@^0.1.30:
-  version "0.1.30"
-  resolved "https://registry.yarnpkg.com/storybook-mobile/-/storybook-mobile-0.1.30.tgz#c93b3a38e2e4d087160e20e2eb136731d738889a"
-  integrity sha512-dwikVTjLlSdSczzMGNsbVWhBerKDcSdS1afby54x4sWwFfkbJGiiBWc5ClJ/3kqruqcLHltGdlL6LjIqYrfVtg==
+storybook-mobile@^0.1.32:
+  version "0.1.32"
+  resolved "https://registry.yarnpkg.com/storybook-mobile/-/storybook-mobile-0.1.32.tgz#aa7209ae25095f574f012390ee9fa9d2336aea9b"
+  integrity sha512-3iSbQdk9dvAz1C1W1Jp41i44EAxxRwf6qzj5833/LvUOuHJ8sB55hUl0ijlaQvgsHCHlfIoJrr4o/GCSM5ErRA==
   dependencies:
     "@storybook/addons" "^5.3.18"
     "@storybook/api" "^5.3.18"
