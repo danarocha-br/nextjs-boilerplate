@@ -24,7 +24,7 @@
     "next": "10.0.9",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "styled-components": "^5.2.1",
+    "styled-components": "^5.3.6",
     "use-dark-mode": "^2.3.1"
   },
   "devDependencies": {
@@ -41,7 +41,7 @@
     "@types/jest": "^26.0.23",
     "@types/node": "^14.14.35",
     "@types/react": "^17.0.3",
-    "@types/styled-components": "^5.1.9",
+    "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^4.19.0",
     "@typescript-eslint/parser": "^4.26.0",
     "babel-loader": "^8.2.2",
